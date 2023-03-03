@@ -29,6 +29,7 @@
 🖼️ Photos  
 📹 AVFoundation  
 
+
 💼 https://contra.com/vicrodriguezmaffoni_mw8ugl2m  
 📫 vicrodriguezmaffoni@gmail.com
 
