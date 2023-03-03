@@ -11,25 +11,25 @@
 🖌️ I'm a big SwiftUI fan and love learning about new frameworks
 
 #### Design patterns
-✅ VIPER, MVC 
-✅ Singleton 
-✅ Delegation 
-✅ Coordinator 
-✅ Dependency injection
+✅ VIPER, MVC  
+✅ Singleton  
+✅ Delegation  
+✅ Coordinator  
+✅ Dependency injection 
 
 
 #### Skills
-🎨 SwiftUI 
-📲 UIKit 
-💽 Core Data 
-📍 MapKit 
-💬 OneSignal 
-🔥 Firebase 
-🤳 ARKit 
-🖼️ Photos 
-📹 AVFoundation 
+🎨 SwiftUI  
+📲 UIKit  
+💽 Core Data  
+📍 MapKit  
+💬 OneSignal  
+🔥 Firebase  
+🤳 ARKit  
+🖼️ Photos  
+📹 AVFoundation  
 
-💼 https://contra.com/vicrodriguezmaffoni_mw8ugl2m 
+💼 https://contra.com/vicrodriguezmaffoni_mw8ugl2m  
 📫 vicrodriguezmaffoni@gmail.com
 
 <!--
