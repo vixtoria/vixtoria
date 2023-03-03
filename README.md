@@ -28,6 +28,8 @@
 - 🤳 ARKit  
 - 🖼️ Photos  
 - 📹 AVFoundation  
+- ❤️‍🔥 Alamofire  
+- 💽 Realm  
 
 
 
