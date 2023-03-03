@@ -19,7 +19,6 @@
 
 
 #### Skills
-- 🎨 SwiftUI  
 - 📲 UIKit  
 - 💽 Core Data  
 - 📍 MapKit  
@@ -30,6 +29,7 @@
 - 📹 AVFoundation  
 - ❤️‍🔥 Alamofire  
 - 💽 Realm  
+- 🎨 Learning about SwiftUI  
 
 
 
