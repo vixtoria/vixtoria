@@ -12,38 +12,24 @@
 
 #### Design patterns
 ✅ VIPER, MVC
-
 ✅ Singleton
-
 ✅ Delegation
-
 ✅ Coordinator
-
 ✅ Dependency injection
 
 
 #### Skills
 🎨 SwiftUI
-
 📲 UIKit
-
 💽 Core Data
-
 📍 MapKit
-
 💬 OneSignal
-
 🔥 Firebase
-
 🤳 ARKit
-
 🖼️ Photos
-
 📹 AVFoundation
 
-
 💼 https://contra.com/vicrodriguezmaffoni_mw8ugl2m
-
 📫 vicrodriguezmaffoni@gmail.com
 
 <!--
