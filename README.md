@@ -2,7 +2,7 @@
 
 #### About
 
-💻  My name is Victoria and I'm a software developer with 5 years of experience in front-end and back-end development, with special focus on mobile development, having worked on iOS native development using Swift for the past 4 years
+💻  I'm a software developer with 5 years of experience in front-end and back-end development, with special focus on mobile development, having worked on iOS native development using Swift for the past 4 years
 
 💡  Throughout my career, I have improved my abilities to work in a fast-paced environment, delivering high-quality, user-friendly mobile applications that meet or exceed customer expectations. My experience in working for both front and back development, has allowed me to gain a deep understanding of the entire development process
 
