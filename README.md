@@ -25,10 +25,12 @@
 - 💬 OneSignal  
 - 🔥 Firebase  
 - 🤳 ARKit  
+- 🤳 Google ML Kit  
 - 🖼️ Photos  
 - 📹 AVFoundation  
 - ❤️‍🔥 Alamofire  
 - 💽 Realm  
+- 🎨 Lottie  
 - 🎨 Learning about SwiftUI  
 
 
