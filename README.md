@@ -25,7 +25,7 @@
 - 💬 OneSignal  
 - 🔥 Firebase  
 - 🤳 ARKit  
-- 🤳 Google ML Kit  
+- 💭 Google ML Kit  
 - 🖼️ Photos  
 - 📹 AVFoundation  
 - ❤️‍🔥 Alamofire  
