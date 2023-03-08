@@ -30,7 +30,8 @@
 - 📹 AVFoundation  
 - ❤️‍🔥 Alamofire  
 - 💽 Realm  
-- 🎨 Lottie  
+- 🫧 SwiftLint  
+- 🌟 Lottie  
 - 🎨 Learning about SwiftUI  
 
 
