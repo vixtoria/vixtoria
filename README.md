@@ -34,10 +34,11 @@
 - 🌟 Lottie  
 - 🎨 Learning about SwiftUI  
 
-
+###
 
 💼  https://contra.com/vicrodriguezmaffoni_mw8ugl2m  
-📫  vicrodriguezmaffoni@gmail.com
+🗓️  https://calendly.com/vicrodriguezmaffoni/quick-call   
+📫  vicrodriguezmaffoni@gmail.com  
 
 <!--
 **vixtoria/vixtoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
