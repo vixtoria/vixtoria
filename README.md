@@ -22,16 +22,17 @@
 - 📲 UIKit  
 - 💽 Core Data  
 - 📍 MapKit  
-- 💬 OneSignal  
-- 🔥 Firebase  
-- 🤳 ARKit  
-- 💭 Google ML Kit  
 - 🖼️ Photos  
 - 📹 AVFoundation  
+- 🤳 ARKit  
+- 💭 Google ML Kit  
+- 🔥 Firebase  
+- 💬 OneSignal  
+- 🌟 Lottie  
 - ❤️‍🔥 Alamofire  
 - 💽 Realm  
-- 🫧  SwiftLint  
-- 🌟 Lottie  
+- 💡 SwiftLint  
+- 📖 CocoaPods  
 - 🎨 Learning about SwiftUI  
 
 ###
