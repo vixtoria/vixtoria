@@ -2,21 +2,17 @@
 
 #### About
 
-💻  I'm a software developer with 5 years of experience in front-end and back-end development, with special focus on mobile development, having worked on iOS native development using Swift for the past 4 years
+💻  I'm a software developer with 5 years of experience with special focus on mobile development, having worked on iOS native development for the past 5 years
 
 💡  Throughout my career, I have improved my abilities to work in a fast-paced environment, delivering high-quality, user-friendly mobile applications that meet or exceed customer expectations. My experience in working for both front and back development, has allowed me to gain a deep understanding of the entire development process
 
 ⭐  With my experience I have gained a strong foundation on iOS native development using Swift. I have developed a deep understanding of the iOS platform and have experience with various tools and technologies used for iOS development, including the iOS SDK and Apple's design principles, as well as different frameworks and design patterns
 
-🖌️ I'm a big SwiftUI fan and love learning about new frameworks
-
 #### Design patterns
-- ✅ VIPER, MVC  
-- ✅ Singleton  
-- ✅ Delegation  
-- ✅ Coordinator  
+- ✅ VIPER, MVV, MVC  
 - ✅ Dependency injection 
-
+- ✅ Delegation  
+- ✅ Coordinator
 
 #### Skills
 - 📲 UIKit  
@@ -32,12 +28,12 @@
 - ❤️‍🔥 Alamofire  
 - 💽 Realm  
 - 💡 SwiftLint  
-- 📖 CocoaPods  
-- 🎨 Learning about SwiftUI  
+- 📖 CocoaPods, SPM
+- Segment
+- Branch
 
 ###
 
-💼  https://contra.com/vicrodriguezmaffoni_mw8ugl2m  
 🗓️  https://calendly.com/vicrodriguezmaffoni/quick-call   
 📫  vicrodriguezmaffoni@gmail.com  
 
